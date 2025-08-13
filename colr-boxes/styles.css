@@ -1,0 +1,26 @@
+body{
+  background-color: #f4f4f4;
+  margin: auto;
+  padding: 30px
+}
+.color-box{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 2.5px;
+}
+.color1{
+  background-color: #4a4a4a;
+}
+.color2{
+  background-color:rgb(255 255 0);
+}
+.color3{
+  background-color: aqua;
+}
+.color4{
+  background-color: hsl(255 120% 50%);
+}
+.color5{
+  background-color: red;
+}
